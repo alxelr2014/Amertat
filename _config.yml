@@ -25,7 +25,7 @@ tagline: An Academic jekyll theme.
 description: >- # this means to ignore newlines until "baseurl:"
     Amertat theme is a jekyll theme. I developed it as the theme for my own webpage. As a result, it is fit to my own needs.
 baseurl: "/Amertat" # the subpath of your site, e.g. /blog
-url: "https://alxelr2014.github.io/Amertat/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alxelr2014.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
